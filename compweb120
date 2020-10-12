@@ -1,0 +1,1 @@
+gcc server_web120.c -lnsl -w -o server_web120
